@@ -1,1 +1,1 @@
-./obj/local/x86/objs/TestNdk/test.o: test.c
+.//obj/local/x86/objs/TestNdk/test.o: test.c
