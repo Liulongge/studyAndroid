@@ -1,6 +1,7 @@
-#include "/Users/runge.liu/Documents/code/android-ndk-r21e/sysroot/usr/include/android/log.h"
+#include "sysroot/usr/include/android/log.h"
 #include <iostream>
 #include <unistd.h>
+
 int main()
 {
     while(true)
